@@ -16,7 +16,7 @@
 ### 🌟 About Me
 
 - 🌱 Currently learning **React, Express, Node, MongoDB**
-- 👨‍💻 Projects portfolio: [https://migaraportfolio.vercel.app/]
+- 👨‍💻 Projects portfolio: <a href="https://migaraportfolio.vercel.app/">Visit</a>
 - 📫 Contact: **dakshinamigara@gmail.com**
 - 📄 Resume: [To be added][resume]
 
