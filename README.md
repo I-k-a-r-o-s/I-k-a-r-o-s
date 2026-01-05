@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm I-k-a-r-o-s</h1>
+<h1 align="center">Hi 👋, I'm Dakshina Migara</h1>
 <h3 align="center">A passionate frontend/full stack developer from Sri Lanka</h3>
 
 <!-- Profile Views -->
