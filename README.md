@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dakshina Migara</h1>
-<h3 align="center">A passionate frontend/full stack developer from Sri Lanka</h3>
+<h3 align="center">A passionate full stack developer from Sri Lanka</h3>
 
 <!-- Profile Views -->
 <p align="left">
