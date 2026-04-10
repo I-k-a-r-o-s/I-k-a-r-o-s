@@ -7,11 +7,7 @@
 </p>
 
 <!-- GitHub Trophies -->
-<p align="left">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=i-k-a-r-o-s&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies" />
-    </a>
-</p>
+[![trophy](https://github-profile-trophy-orcin-eta.vercel.app/?username=I-k-a-r-o-s)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 🌟 About Me
 
@@ -231,8 +227,3 @@
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=i-k-a-r-o-s&theme=default" alt="GitHub Streak" />
     </picture>
 </p>
-
-<!-- Links -->
-
-[portfolio]: #
-[resume]: #
