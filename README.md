@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dakshina Migara</h1>
-<h3 align="center">A passionate frontend/full stack developer from Sri Lanka</h3>
+<h3 align="center">A passionate full stack developer from Sri Lanka</h3>
 
 <!-- Profile Views -->
 <p align="left">
@@ -7,11 +7,7 @@
 </p>
 
 <!-- GitHub Trophies -->
-<p align="left">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=i-k-a-r-o-s&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies" />
-    </a>
-</p>
+[![trophy](https://github-profile-trophy-orcin-eta.vercel.app/?username=I-k-a-r-o-s)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 🌟 About Me
 
@@ -231,8 +227,3 @@
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=i-k-a-r-o-s&theme=default" alt="GitHub Streak" />
     </picture>
 </p>
-
-<!-- Links -->
-
-[portfolio]: #
-[resume]: #
